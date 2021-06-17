@@ -31,15 +31,17 @@ and get an overview of TypeScript capabilities and principles.
  1. Avoid using `any` type at all cost.
  2. Difficulty quickly grows one exercise after another.
 
-## How to present my solutions?
+## How to share my solutions?
 
-* Create a public github repo. 
-** Your solutions should be in ".ts" format
-** One file for each exercise. 
-** The name of each file should contain the exercise number
-** Share the repo link with me in whatever way you prefer :) 
+### Create a public github repo. 
+- Your solutions should be in ".ts" format
+- One file for each exercise. 
+- The name of each file should contain the exercise number
+- Share the repo link with me in whatever way you prefer :) 
 
-* Suggested checkpoints, or moments to ask me to review:
-** Once after finishing exercise 6
-** Once after finishing exercise 10
-** For each finished exercise after exercise 10
+### Recommended checkpoints (moments to ask me to review):
+* Once after finishing exercise 6
+* Once after finishing exercise 10
+* For each finished exercise after exercise 10
+
+Feel free to ask me to review whenever you want, these are just my suggestions :) 
