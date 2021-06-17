@@ -143,32 +143,6 @@ export const exerciseStructures: Record<string, FileTree> = {
     },
     12: {
         '/index.ts': {
-            content: require('!!raw-loader!../exercises/12/index.ts').default,
-            readOnly: true
-        },
-        '/test.ts': {
-            content: require('!!raw-loader!../exercises/12/test.ts').default,
-            readOnly: true
-        },
-        '/declarations/stats/index.d.ts': {
-            content: require('!!raw-loader!../exercises/12/declarations/stats/index.d.ts').default
-        },
-        '/node_modules/stats/index.js': {
-            content: require('!!raw-loader!../exercises/12/node_modules/stats/index.js').default,
-            readOnly: true
-        },
-        '/node_modules/stats/package.json': {
-            content: formatJson(require('../exercises/12/node_modules/stats/package.json')),
-            readOnly: true
-        },
-        '/node_modules/stats/README.md': {
-            content: require('!!raw-loader!../exercises/12/node_modules/stats/README.md').default,
-            readOnly: true
-        },
-        ...typeAssertions
-    },
-    13: {
-        '/index.ts': {
             content: require('!!raw-loader!../exercises/13/index.ts').default,
             readOnly: true
         },
@@ -193,7 +167,7 @@ export const exerciseStructures: Record<string, FileTree> = {
         },
         ...typeAssertions
     },
-    14: {
+    13: {
         '/index.ts': {
             content: require('!!raw-loader!../exercises/14/index.ts').default
         },
@@ -203,7 +177,7 @@ export const exerciseStructures: Record<string, FileTree> = {
         },
         ...typeAssertions
     },
-    15: {
+    14: {
         '/index.ts': {
             content: require('!!raw-loader!../exercises/15/index.ts').default
         },
@@ -213,7 +187,7 @@ export const exerciseStructures: Record<string, FileTree> = {
         },
         ...typeAssertions
     },
-    16: {
+    15: {
         '/index.ts': {
             content: require('!!raw-loader!../exercises/16/index.ts').default,
             readOnly: true
