@@ -1,3 +1,12 @@
+Local environment requirements:
+
+* On a mac you have brew installed.
+* You have Git installed.
+* You have Node JS = 10.18.1 installed (you may have to change your local version to match this one)
+(I recommend nvm to change the local node js version)
+You have Yarn installed. On mac: npm install yarn -g
+You have Visual Studio Code installed.
+
 # TypeScript exercises
 
 To start, run yarn && yarn start in the project folder
