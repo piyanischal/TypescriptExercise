@@ -1,6 +1,7 @@
 # TypeScript exercises
 
-Start your journey here: https://typescript-exercises.github.io/
+To start, run yarn && yarn start in the project folder
+localhost:3000 will open. Please wait a bit for the initial render.
 
 The goal: Let everyone play with many different TypeScript features
 and get an overview of TypeScript capabilities and principles.
@@ -28,9 +29,3 @@ and get an overview of TypeScript capabilities and principles.
  4. Provide feedback to the creator of these exercises.
 
  5. Enjoy.
-
-## Contributing
-
- 1. Your contributions are welcome.
-
- 2. `yarn start` starts the development server.
