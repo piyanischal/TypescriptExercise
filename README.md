@@ -1,4 +1,4 @@
-Local environment requirements:
+# Local environment requirements:
 
 * On a mac you have brew installed.
 * You have Git installed.
@@ -26,15 +26,20 @@ and get an overview of TypeScript capabilities and principles.
  7. Module augmentation.
  8. Advanced type mapping.
 
-## Rules and principles
+## To take into account
 
  1. Avoid using `any` type at all cost.
-
  2. Difficulty quickly grows one exercise after another.
 
- 3. Feel free to send pull-requests if you've come up
-    with improvements!
+## How to present my solutions?
 
- 4. Provide feedback to the creator of these exercises.
+* Create a public github repo. 
+** Your solutions should be in ".ts" format
+** One file for each exercise. 
+** The name of each file should contain the exercise number
+** Share the repo link with me in whatever way you prefer :) 
 
- 5. Enjoy.
+* Suggested checkpoints, or moments to ask me to review:
+** Once after finishing exercise 6
+** Once after finishing exercise 10
+** For each finished exercise after exercise 10
