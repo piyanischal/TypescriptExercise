@@ -11,12 +11,13 @@ To start the app, run
 
 ```yarn && yarn start ```
 
-in the project folder
+in the project folder.
+
+localhost:3000 will open. Please wait a bit for the initial render.
+
 
 
 # TypeScript exercises
-
-localhost:3000 will open. Please wait a bit for the initial render.
 
 The goal: Let everyone play with many different TypeScript features
 and get an overview of TypeScript capabilities and principles.
