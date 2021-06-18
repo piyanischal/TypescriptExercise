@@ -7,7 +7,7 @@
 You have Yarn installed. On mac: npm install yarn -g
 You have Visual Studio Code installed.
 
-To start, run
+To start the app, run
 
 ```yarn && yarn start ```
 
