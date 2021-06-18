@@ -7,9 +7,15 @@
 You have Yarn installed. On mac: npm install yarn -g
 You have Visual Studio Code installed.
 
+To start, run
+
+```yarn && yarn start ```
+
+in the project folder
+
+
 # TypeScript exercises
 
-To start, run yarn && yarn start in the project folder
 localhost:3000 will open. Please wait a bit for the initial render.
 
 The goal: Let everyone play with many different TypeScript features
